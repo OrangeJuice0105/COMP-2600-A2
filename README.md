@@ -1,4 +1,4 @@
-# COMP-2600-A2
+# README: Using Static site generator to host a resume.
 
 ## Getting Started
 
