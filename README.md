@@ -158,4 +158,4 @@ Done. Your new project is available at [your directory]
 
 - Mehidi - peer reviewer
 
-- Pelican static site theme: 
+- Pelican static site theme: default.
